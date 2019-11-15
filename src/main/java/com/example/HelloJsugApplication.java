@@ -11,7 +11,7 @@ public class HelloJsugApplication {
 
         @GetMapping("/") 
         public String hello() {
-                return "Hello JSUG v3 🍃!";
+                return "Hello JSUG 🍃!";
         }
 
         public static void main(String[] args) {
